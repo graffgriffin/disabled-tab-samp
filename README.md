@@ -10,8 +10,8 @@ I recommend using this plugin if you are creating your own GUI and want to remov
 
 <table>
   <tr>
-    <th>Параметр</th>
-    <th>Значение</th>
+    <th>Parameter</th>
+    <th>Meaning</th>
   </tr>
   <tr>
     <td><b>🛡️ Protections</b></td>
